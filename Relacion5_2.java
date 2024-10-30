@@ -7,10 +7,10 @@ public class Relacion5_2 {
             char genero = 'H';
             String nombre = "Juan";
             int numeroDeHijos = 2;
-            double iva = 21.0;
+            double iva = 21.0d;
             int tallaCamisa = 42;
             float peso = 70.5f;
-            double precio = 99.99;
+            double precio = 99.99d;
             boolean alumnoRepetidor = false;
             String mensaje = "Bienvenido a Java";
             char letra = 'A';
