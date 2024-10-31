@@ -1,5 +1,4 @@
 public class Relacion5_2 {
-    public class VariablesEjemplo {
         public static void main(String[] args) {
             byte edad = 25;
             String codigoPostal = 28001;
@@ -22,28 +21,10 @@ public class Relacion5_2 {
             boolean mayorDeEdad = true;
             String tallaCamiseta = "L";
     
-            System.out.println("Edad: " + edad + 
-                               ", Código Postal: " + codigoPostal +
-                               ", Altura: " + altura +
-                               ", Género: " + genero +
-                               ", Nombre: " + nombre +
-                               ", Número de Hijos: " + numeroDeHijos +
-                               ", IVA: " + iva + "%" +
-                               ", Talla Camisa: " + tallaCamisa +
-                               ", Peso: " + peso +
-                               ", Precio: " + precio +
-                               ", Alumno Repetidor: " + alumnoRepetidor +
-                               ", Mensaje: " + mensaje +
-                               ", Letra: " + letra +
-                               ", Mayor de Edad: " + mayorEdad +
-                               ", Minutos: " + minutos +
-                               ", Días: " + dias +
-                               ", Matrícula Coche: " + matriculaCoche +
-                               ", Contador: " + contador +
-                               ", Mayor de Edad (boolean): " + mayorDeEdad +
+            System.out.println("Edad: " + edad + ", Código Postal: " + codigoPostal + ", Altura: " + altura +  ", Género: " + genero  + ", Nombre: " + nombre +  ", Número de Hijos: " + numeroDeHijos +
+                               ", IVA: " + iva + "%" + ", Talla Camisa: " + tallaCamisa + ", Peso: " + peso + ", Precio: " + precio + ", Alumno Repetidor: " + alumnoRepetidor + ", Mensaje: " + mensaje + ", Letra: " + letra +
+                               ", Mayor de Edad: " + mayorEdad + ", Minutos: " + minutos + ", Días: " + dias + ", Matrícula Coche: " + matriculaCoche + ", Contador: " + contador + ", Mayor de Edad (boolean): " + mayorDeEdad +
                                ", Talla Camiseta: " + tallaCamiseta);
         }
     }
-    
-}
 
